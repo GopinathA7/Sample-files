@@ -1,2 +1,2 @@
 # Sample-files
-This is a sample code
+This is a sample code.
